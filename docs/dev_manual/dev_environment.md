@@ -42,7 +42,7 @@
 ### 3.1 创建数据库
 
 !!! Abstract "" 
-    在 PostgreSql 中手动创建MaxKB 应用数据库，名称为`maxkb`。
+    在 PostgreSql 中手动创建GTAI 应用数据库，名称为`GTAI`。
     ```
     # 创建数据库
     CREATE DATABASE "maxkb"; 
@@ -108,7 +108,7 @@
     注意: 在项目根目录执行
 
 !!! Abstract ""
-    在 MaxKB 项目根目录下依次执行以下命令，启动 Web 服务。
+    在 GTAI 项目根目录下依次执行以下命令，启动 Web 服务。
 
     ```
     # 安装 poetry 包管理器
@@ -125,7 +125,7 @@
 ![启动Web服务](../img/dev/main_start.png){width="500px"}
 
 !!! Abstract ""
-    在 MaxKB 项目根目录下依次执行以下命令，启动本地模型服务。
+    在 GTAI 项目根目录下依次执行以下命令，启动本地模型服务。
 
     ```
     # 启动项目
@@ -135,7 +135,7 @@
 ![启动本地模型服务](../img/dev/main_localmodel.png){width="500px"}
 
 !!! Abstract ""
-    在 MaxKB 项目根目录下依次执行以下命令，启动异步任务服务。
+    在 GTAI 项目根目录下依次执行以下命令，启动异步任务服务。
 
     ```
     # 启动项目

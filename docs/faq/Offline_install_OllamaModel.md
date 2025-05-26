@@ -53,6 +53,6 @@
 
 ![ollama查看模型列表](../img/FAQ/ollamaList.png)
 
-## 5 在 MaxKB 中添加已创建的私有模型
+## 5 在 GTAI 中添加已创建的私有模型
 
-![MaxKB中添加模型](../img/FAQ/MaxKBaddModel.png)
+![GTAI中添加模型](../img/FAQ/MaxKBaddModel.png)

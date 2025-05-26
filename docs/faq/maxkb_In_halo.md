@@ -1,4 +1,4 @@
-# 将 MaxKB 小助手集成到 Halo 中
+# 将 GTAI 小助手集成到 Halo 中
 
 !!! Abstract ""
     [Halo](https://github.com/halo-dev/halo) [ˈheɪloʊ]，强大易用的开源建站工具。通过 MaxKB 小助手插件，可以将文章内容同步至 MaxKB 知识库，并可通过浮窗模式为网站提供智能问答。       

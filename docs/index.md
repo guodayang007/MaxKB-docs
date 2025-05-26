@@ -4,11 +4,11 @@
 
 !!! Abstract ""
 
-    MaxKB = Max Knowledge Brain，是一款强大易用的企业级 AI 助手，支持 RAG 检索增强、工作流编排、MCP 工具调用能力。MaxKB 支持对接各种主流大语言模型，广泛应用于智能客服、企业内部知识库问答、员工助手、学术研究与教育等场景。
+    GTAI = Max Knowledge Brain，是一款强大易用的企业级 AI 助手，支持 RAG 检索增强、工作流编排、MCP 工具调用能力。GTAI 支持对接各种主流大语言模型，广泛应用于智能客服、企业内部知识库问答、员工助手、学术研究与教育等场景。
 
 !!! Abstract ""
 
-    MaxKB 能够为企业的智能化进程注入新的动力，助力企业实现“提质增效”的目标。在知识库管理方面，MaxKB 帮助企业实现知识采集、知识入库、知识库构建的全流程自动化；在场景化智能搜索方面，MaxKB 能够解析用户输入的问题并匹配检索知识库；在回复准确性方面，MaxKB 采用了成熟的 LLM + RAG 技术，能够最大限度地降低大模型幻觉对知识搜索准确性的干扰，提高企业对业务数据的分类与召回能力；安全性方面，MaxKB 支持本地部署和调用本地大模型，有效管控企业使用知识库时越级访问的风险，以及公有模型在数据传输方面可能存在的安全隐患。借助 MaxKB，企业用户可以快速上线业务 AI 助手，将生成式 AI 能力应用于业务数据管理、内部资料查询、线上客户服务等领域，优化业务服务流程并切实提升用户体验。
+    GTAI 能够为企业的智能化进程注入新的动力，助力企业实现“提质增效”的目标。在知识库管理方面，GTAI 帮助企业实现知识采集、知识入库、知识库构建的全流程自动化；在场景化智能搜索方面，GTAI 能够解析用户输入的问题并匹配检索知识库；在回复准确性方面，GTAI 采用了成熟的 LLM + RAG 技术，能够最大限度地降低大模型幻觉对知识搜索准确性的干扰，提高企业对业务数据的分类与召回能力；安全性方面，GTAI 支持本地部署和调用本地大模型，有效管控企业使用知识库时越级访问的风险，以及公有模型在数据传输方面可能存在的安全隐患。借助 GTAI，企业用户可以快速上线业务 AI 助手，将生成式 AI 能力应用于业务数据管理、内部资料查询、线上客户服务等领域，优化业务服务流程并切实提升用户体验。
    
 
 ![概览](img/index/UI.jpg)
@@ -33,21 +33,21 @@
 
 !!! Abstract ""
 
-    MaxKB 自发布以来，日均安装下载超过 1000 次，被广泛应用于智能客服、企业内部知识库、学术研究与教育等场景，典型应用案例详情见如下链接：
+    GTAI 自发布以来，日均安装下载超过 1000 次，被广泛应用于智能客服、企业内部知识库、学术研究与教育等场景，典型应用案例详情见如下链接：
 
-    - [MaxKB 应用案例：中国农业大学-小鹉哥](https://mp.weixin.qq.com/s/4g_gySMBQZCJ9OZ-yBkmvw)
-    - [MaxKB 应用案例：东北财经大学-小银杏](https://mp.weixin.qq.com/s/3BoxkY7EMomMmmvFYxvDIA)
-    - [MaxKB 应用案例：重庆交通大学-渝小交](https://mp.weixin.qq.com/s/8L4hIjdhzWOmpQXx2cW33g)
-    - [MaxKB 应用案例：广西大学](https://mp.weixin.qq.com/s/83N9a_wWDce7z1NLIropEAx)
-    - [MaxKB 应用案例：南京中医药大学](https://mp.weixin.qq.com/s/WUmAKYbZjp3272HIecpRFA)
-    - [MaxKB 应用案例：高校行政管理AI小助手](https://www.bilibili.com/video/BV1yvBMYvEdy)
-    - [MaxKB 应用案例：中铁水务](https://mp.weixin.qq.com/s/voNAddbK2CJOrJJs1ewZ8g)
-    - [MaxKB 应用案例：解放军总医院](https://mp.weixin.qq.com/s/ETrZC-vrA4Aap0eF-15EeQ)
-    - [MaxKB 应用案例：中核西仪研究院-西仪睿答](https://mp.weixin.qq.com/s/CbKr4mev8qahKLAtV6Dxdg)
-    - [MaxKB 应用案例：西安国际医院中心医院-国医小助](https://mp.weixin.qq.com/s/DSOUvwrQrxbqQxKBilTCFQ)
-    - [MaxKB 应用案例：深圳大学附属华南医院-医疗版“知识数据库助手”](https://www.nfnews.com/content/732YEYDPyW.html)
-    - [MaxKB 应用案例：生物医药AI客服智能体验!](https://www.bilibili.com/video/BV13JzvYsE3e)
-    - [MaxKB 应用案例：把医疗行业知识转化为知识库问答助手！](https://www.bilibili.com/video/BV157wme9EgB)
+    - [GTAI 应用案例：中国农业大学-小鹉哥](https://mp.weixin.qq.com/s/4g_gySMBQZCJ9OZ-yBkmvw)
+    - [GTAI 应用案例：东北财经大学-小银杏](https://mp.weixin.qq.com/s/3BoxkY7EMomMmmvFYxvDIA)
+    - [GTAI 应用案例：重庆交通大学-渝小交](https://mp.weixin.qq.com/s/8L4hIjdhzWOmpQXx2cW33g)
+    - [GTAI 应用案例：广西大学](https://mp.weixin.qq.com/s/83N9a_wWDce7z1NLIropEAx)
+    - [GTAI 应用案例：南京中医药大学](https://mp.weixin.qq.com/s/WUmAKYbZjp3272HIecpRFA)
+    - [GTAI 应用案例：高校行政管理AI小助手](https://www.bilibili.com/video/BV1yvBMYvEdy)
+    - [GTAI 应用案例：中铁水务](https://mp.weixin.qq.com/s/voNAddbK2CJOrJJs1ewZ8g)
+    - [GTAI 应用案例：解放军总医院](https://mp.weixin.qq.com/s/ETrZC-vrA4Aap0eF-15EeQ)
+    - [GTAI 应用案例：中核西仪研究院-西仪睿答](https://mp.weixin.qq.com/s/CbKr4mev8qahKLAtV6Dxdg)
+    - [GTAI 应用案例：西安国际医院中心医院-国医小助](https://mp.weixin.qq.com/s/DSOUvwrQrxbqQxKBilTCFQ)
+    - [GTAI 应用案例：深圳大学附属华南医院-医疗版“知识数据库助手”](https://www.nfnews.com/content/732YEYDPyW.html)
+    - [GTAI 应用案例：生物医药AI客服智能体验!](https://www.bilibili.com/video/BV13JzvYsE3e)
+    - [GTAI 应用案例：把医疗行业知识转化为知识库问答助手！](https://www.bilibili.com/video/BV157wme9EgB)
     - [MaxKB 应用案例：深圳福田公证处 AI 助手](https://mp.weixin.qq.com/s/KEtM-bkqim5LLBc4yA9CmQ)
     - [MaxKB 应用案例：无锡市数据局](https://mp.weixin.qq.com/s/enfUFLevvL_La74PQ0kIXw)
     - [MaxKB 应用案例：广西质检院 AI小质](https://mp.weixin.qq.com/s/JNOk8gMrcX1c70A_bX1pfQ)

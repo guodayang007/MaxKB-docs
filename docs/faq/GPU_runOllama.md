@@ -41,8 +41,8 @@
     docker exec -it ollama ollama run qwen:7b
     ```
 
-## 4 在 MaxKB 中添加 Ollama 模型
+## 4 在 GTAI 中添加 Ollama 模型
 
 !!! Abstract ""
-    下载完成并运行模型服务后，即可在 MaxKB 中添加对应的模型并使用。
+    下载完成并运行模型服务后，即可在 GTAI 中添加对应的模型并使用。
 ![添加模型](../img/FAQ/addmodel.png)

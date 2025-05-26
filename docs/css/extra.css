@@ -1,15 +1,15 @@
 .md-header {
-  background: linear-gradient(180deg, #3370FF 0.85%, #7F3BF5 95.97%);
+  background: linear-gradient(180deg, #20a169 0.85%, #249c78 95.97%);
   top: 48px;
 }
 
 .md-footer {
-  background-color: rgb(37,43,60);background: linear-gradient(180deg, #3370FF 0.85%, #7F3BF5 95.97%);
+  background-color: rgb(37,43,60);background: linear-gradient(180deg, #328f1d 0.85%, #249d91 95.97%);
 
 }
 
 .md-tabs {
-  background-color:  #3370FF;
+  background-color:  rgb(80, 181, 167);;
 }
 
 .md-footer-nav__link {
@@ -34,7 +34,7 @@
 .progress-bar {
   height: 1.2rem;
   float: left;
-  background-color:  #3370FF;
+  background-color:  rgb(80, 181, 167);;
 }
 
 .progress {
@@ -132,7 +132,7 @@
   border-left-width: 4px;
 }
 .md-typeset .admonition.abstract, .md-typeset details.abstract{
-  border-left-color: #3370FF;
+  border-left-color: rgb(80, 181, 167);;
 }
 .md-typeset p, .md-typeset ul, .md-typeset ol, .md-typeset dl, .md-typeset blockquote {
   display: flow-root;

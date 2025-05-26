@@ -1,27 +1,27 @@
 !!! Abstract ""
-    MaxKB 创建的应用支持通过 OpenAI SDK 格式以及提供系统 SDK接入，专业版在社区版本基础上提供平台级别的完整 SDK，详细情况见：[系统API](../user_manual/X-Pack/system_API.md)。
+    GTAI 创建的应用支持通过 OpenAI SDK 格式以及提供系统 SDK接入，专业版在社区版本基础上提供平台级别的完整 SDK，详细情况见：[系统API](../user_manual/X-Pack/system_API.md)。
 
 ## 1 标准OpenAI API格式
 
 !!! Abstract ""
-    MaxKB 应用兼容 OpenAI API 格式，在OpenAI API 原有调用方式的基础上替换为 MaxKB 应用提供的 Base URL 以及 API Key 即可。
+    GTAI 应用兼容 OpenAI API 格式，在OpenAI API 原有调用方式的基础上替换为 GTAI 应用提供的 Base URL 以及 API Key 即可。
 
 ![API doc](../img/dev/openai_baseurl.png)
 
 !!! Abstract ""
 
     ```
-    # 将url 和 Authorization 替换为 MaxKB 应用实际真实的 Base URL 和 API Key。
+    # 将url 和 Authorization 替换为 GTAI 应用实际真实的 Base URL 和 API Key。
 
-    curl https://maxkb.fit2cloud.com/api/application/xxxxxxxx-8c56-11ef-a99e-0242ac140003/chat/completions \
+    curl https://GTAI.fit2cloud.com/api/application/xxxxxxxx-8c56-11ef-a99e-0242ac140003/chat/completions \
         -H "Content-Type: application/json" \
         -H "Authorization: Bearer application-xxxxxxxxf00e21a7530d1177c20967"  \
         -d '{
             "model": "gpt-3.5-turbo",
             "messages": [
                 {
-                  "role": "你是杭州飞致云信息科技有限公司旗下产品 MaxKB 知识库问答系统的智能小助手，你的工作是帮助 MaxKB 用户解答使用中遇到的问题，用户找你回答问题时，你要把主题放在 MaxKB 知识库问答系统身上。",
-                  "content": "MaxKB 是什么？"
+                  "role": "你是杭州飞致云信息科技有限公司旗下产品 GTAI 知识库问答系统的智能小助手，你的工作是帮助 GTAI 用户解答使用中遇到的问题，用户找你回答问题时，你要把主题放在 GTAI 知识库问答系统身上。",
+                  "content": "GTAI 是什么？"
                 }
             ]
         }'

@@ -1,4 +1,4 @@
-本仓库保存了 [MaxKB 项目]() 的 [官方文档](https://fit2cloud.com/maxkb/docs/)，该文档使用 [MkDocs]() 文档框架下的 [Material for MkDocs]() 主题进行构建。
+本仓库保存了 [GTAI 项目]() 的 [官方文档](https://fit2cloud.com/GTAI/docs/)，该文档使用 [MkDocs]() 文档框架下的 [Material for MkDocs]() 主题进行构建。
 
 ## 本地开发
 

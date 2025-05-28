@@ -1,5 +1,5 @@
 !!! Abstract ""
-    GTAI 创建的应用支持通过 OpenAI SDK 格式以及提供系统 SDK接入，专业版在社区版本基础上提供平台级别的完整 SDK，详细情况见：[系统API](../user_manual/X-Pack/system_API.md)。
+    GTAI 创建的应用支持通过 OpenAI SDK 格式以及提供系统 SDK接入，专业版在本基础上提供平台级别的完整 SDK，详细情况见：[系统API](../user_manual/X-Pack/system_API.md)。
 
 ## 1 标准OpenAI API格式
 

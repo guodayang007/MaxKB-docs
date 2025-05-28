@@ -7,7 +7,7 @@
 ## 1 安装应用
 
 !!! Abstract ""
-    MaxKB 社区版已上架腾讯云云应用，可直接在腾讯云服务器中快速部署。
+    MaxKB 已上架腾讯云云应用，可直接在腾讯云服务器中快速部署。
 
     第一步：关联我们的腾讯云合作伙伴账户，享受更多优惠福利：[点击链接进行关联](https://partner.cloud.tencent.com/invitation/10002820907763620ace838b1?inviteType=2)
 

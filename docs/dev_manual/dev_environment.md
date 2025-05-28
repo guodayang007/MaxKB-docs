@@ -13,7 +13,7 @@
     │ ├── common                # 项目公共资源目录
     │ ├── dataset               # 知识库
     │ ├── embedding             # 向量化
-    │ ├── function_lib          # 函数库
+    │ ├── function_lib          # 工具库
     │ ├── ops                   # 
     │ ├── setting               # 设置
     │ ├── smartdoc              # 项目主目录          

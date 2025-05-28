@@ -6,7 +6,7 @@
 !!! Abstract "" 
     模型供应商为`Ollama`，并在模型添加对话框中输入如下必要信息：
 
-    * 模型名称：MaxKB 中自定义的模型名称。   
+    * 模型名称：GTAI 中自定义的模型名称。   
     * 权限：分为私有和公用两种权限，私有模型仅当前用户可用，公用模型即系统内所有用户均可使用，但其它用户不能编辑和删除。    
     * 模型类型：大语言模型/向量模型/视觉模型/重排模型。    
     * 基础模型：不同类型模型下的基础模型名称，下拉选项是常用的一些基础模型名称，支持自定义输入，但需要与 Ollama 支持的模型名称保持一致，否则无法通过校验。如果本地没有此模型，系统将自动下载。 
@@ -21,7 +21,7 @@
 
 ## 2 配置样例
 
-!!! Abstract ""
+<!-- !!! Abstract ""
     ollama-大语言模型配置样例图示：
 
 ![ollama 大语言模型](../../img/model/ollama_model.png)
@@ -29,7 +29,7 @@
 !!! Abstract ""
     ollama-向量模型配置样例图示：
 
-![ollama 向量模型](../../img/model/ollama_embedding_model.png)
+![ollama 向量模型](../../img/model/ollama_embedding_model.png) -->
 
 !!! Abstract ""
     ollama-视觉模型配置样例图示：

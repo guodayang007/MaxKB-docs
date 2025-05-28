@@ -1,6 +1,5 @@
 .md-header {
   background: linear-gradient(180deg, #20a169 0.85%, #249c78 95.97%);
-  top: 48px;
 }
 
 .md-footer {
@@ -16,8 +15,11 @@
   padding-top: .8rem;
 }
 
+.md-search__inner {
+  display: none !important;
+}
 .md-main__inner {
-  margin-top: 3rem;
+  /* margin-top: 3rem; */
 }
 
 .progress-label {

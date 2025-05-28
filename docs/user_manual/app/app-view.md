@@ -37,7 +37,7 @@
 ## 4 显示设置
 
 !!! Abstract ""
-    社区版本应用支持语言以及显示执行详情的设置，专业版本支持更多设置，详情见：[应用显示](../X-Pack/app_logo_settting.md)
+    本应用支持语言以及显示执行详情的设置，专业版本支持更多设置，详情见：[应用显示](../X-Pack/app_logo_settting.md)
 
 ![访问限制](<../../img/app/display_config.png>){width="500px"}
 

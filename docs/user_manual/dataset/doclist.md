@@ -54,12 +54,12 @@
 
 ![生成问题](../../img/dataset/gen_question.png)
 
-## 6 文档迁移
+<!-- ## 6 文档迁移
 
 !!! Abstract ""  
     选中文档，点击【迁移】按钮，将文档迁移到其它知识库。
 
-![迁移文档](../../img/dataset/move_web_doc.png)
+![迁移文档](../../img/dataset/move_web_doc.png) -->
 
 ## 7 导出EXCEL/ZIP
 

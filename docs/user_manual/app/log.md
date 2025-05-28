@@ -15,6 +15,6 @@
 
 ![引用分段](../../img/app/log_detail.png)
 
-!!! Abstract ""
+<!-- !!! Abstract ""
     运营人员可以根据用户提问、AI 回答以及用户的反馈来编辑和标注，以进一步完善并提升效果。
-![引用分段](../../img/app/log_details_edit.png)
+![引用分段](../../img/app/log_details_edit.png) -->

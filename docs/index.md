@@ -21,7 +21,7 @@
       支持直接上传文档 / 自动爬取在线文档，支持文本自动拆分、向量化和 RAG（检索增强生成），有效减少大模型幻觉，智能问答交互体验好；   
 
     - **灵活编排**    
-      内置强大的工作流引擎、函数库和 MCP 工具调用能力，支持编排 AI 工作过程，满足复杂业务场景下的需求；    
+      内置强大的工作流引擎、工具库和 MCP 工具调用能力，支持编排 AI 工作过程，满足复杂业务场景下的需求；    
 
     - **无缝嵌入**      
       支持零编码快速嵌入到第三方业务系统，让已有系统快速拥有智能问答能力，提高用户满意度；     
@@ -48,22 +48,22 @@
     - [GTAI 应用案例：深圳大学附属华南医院-医疗版“知识数据库助手”](https://www.nfnews.com/content/732YEYDPyW.html)
     - [GTAI 应用案例：生物医药AI客服智能体验!](https://www.bilibili.com/video/BV13JzvYsE3e)
     - [GTAI 应用案例：把医疗行业知识转化为知识库问答助手！](https://www.bilibili.com/video/BV157wme9EgB)
-    - [MaxKB 应用案例：深圳福田公证处 AI 助手](https://mp.weixin.qq.com/s/KEtM-bkqim5LLBc4yA9CmQ)
-    - [MaxKB 应用案例：无锡市数据局](https://mp.weixin.qq.com/s/enfUFLevvL_La74PQ0kIXw)
-    - [MaxKB 应用案例：广西质检院 AI小质](https://mp.weixin.qq.com/s/JNOk8gMrcX1c70A_bX1pfQ)
-    - [MaxKB 应用案例：深圳联交所-深小联AI助手](https://mp.weixin.qq.com/s/3DXghaIT1p1aTQ51D2FCVA)
-    - [MaxKB 应用案例：深圳通](https://mp.weixin.qq.com/s/SILN0GSescH9LyeQqYP0VQ)
-    - [MaxKB 应用案例：华莱士智能AI客服助手上线啦！](https://www.bilibili.com/video/BV1hQtVeXEBL)
-    - [MaxKB 应用案例：会展AI智能客服体验](https://www.bilibili.com/video/BV1J7BqY6EKA)
-    - [MaxKB 应用案例：孩子要上幼儿园了，AI 智能助手择校好帮手](https://www.bilibili.com/video/BV1wKrhYvEer)
-    - [MaxKB 应用案例：产品使用指南AI助手，新手小白也能轻松搞定！](https://www.bilibili.com/video/BV1Yz6gYtEqX)
-    - [MaxKB 应用案例：苏州热工研究院有限公司-大宗材料方案制定和审查助手](https://mp.weixin.qq.com/s/Ts5FQdnv7Tu9Jp7bvofCVA)
-    - [MaxKB 应用案例：国核自仪系统工程有限公司-NuCON AI帮](https://mp.weixin.qq.com/s/HNPc7u5xVfGLJr8IQz3vjQ)
-    - [MaxKB 应用案例：深圳通开启Deep Seek智能应用新篇章](https://mp.weixin.qq.com/s/SILN0GSescH9LyeQqYP0VQ)
-    - [MaxKB 应用案例："畅行南通"智能客服](https://mp.weixin.qq.com/s/WEC9UQ6msY0VS8LhTZh-Ew)
-    - [MaxKB 应用案例：中船动力人工智能"智慧动力云助手"及首批数字员工正式上线](https://mp.weixin.qq.com/s/OGcEkjh9DzGO1Tkc9nr7qg)
-    - [MaxKB 应用案例：南宁矿业集团智慧矿山AI助手](https://mp.weixin.qq.com/s/SZstxTvVoLZg0ECbZbfpIA)
-    - [MaxKB 应用案例：DeepSeek落地弘盛铜业：国产大模型点亮"黑灯工厂"新引擎](https://mp.weixin.qq.com/s/Eczdx574MS5RMF7WfHN7_A)
+    - [GTAI 应用案例：深圳福田公证处 AI 助手](https://mp.weixin.qq.com/s/KEtM-bkqim5LLBc4yA9CmQ)
+    - [GTAI 应用案例：无锡市数据局](https://mp.weixin.qq.com/s/enfUFLevvL_La74PQ0kIXw)
+    - [GTAI 应用案例：广西质检院 AI小质](https://mp.weixin.qq.com/s/JNOk8gMrcX1c70A_bX1pfQ)
+    - [GTAI 应用案例：深圳联交所-深小联AI助手](https://mp.weixin.qq.com/s/3DXghaIT1p1aTQ51D2FCVA)
+    - [GTAI 应用案例：深圳通](https://mp.weixin.qq.com/s/SILN0GSescH9LyeQqYP0VQ)
+    - [GTAI 应用案例：华莱士智能AI客服助手上线啦！](https://www.bilibili.com/video/BV1hQtVeXEBL)
+    - [GTAI 应用案例：会展AI智能客服体验](https://www.bilibili.com/video/BV1J7BqY6EKA)
+    - [GTAI 应用案例：孩子要上幼儿园了，AI 智能助手择校好帮手](https://www.bilibili.com/video/BV1wKrhYvEer)
+    - [GTAI 应用案例：产品使用指南AI助手，新手小白也能轻松搞定！](https://www.bilibili.com/video/BV1Yz6gYtEqX)
+    - [GTAI 应用案例：苏州热工研究院有限公司-大宗材料方案制定和审查助手](https://mp.weixin.qq.com/s/Ts5FQdnv7Tu9Jp7bvofCVA)
+    - [GTAI 应用案例：国核自仪系统工程有限公司-NuCON AI帮](https://mp.weixin.qq.com/s/HNPc7u5xVfGLJr8IQz3vjQ)
+    - [GTAI 应用案例：深圳通开启Deep Seek智能应用新篇章](https://mp.weixin.qq.com/s/SILN0GSescH9LyeQqYP0VQ)
+    - [GTAI 应用案例："畅行南通"智能客服](https://mp.weixin.qq.com/s/WEC9UQ6msY0VS8LhTZh-Ew)
+    - [GTAI 应用案例：中船动力人工智能"智慧动力云助手"及首批数字员工正式上线](https://mp.weixin.qq.com/s/OGcEkjh9DzGO1Tkc9nr7qg)
+    - [GTAI 应用案例：南宁矿业集团智慧矿山AI助手](https://mp.weixin.qq.com/s/SZstxTvVoLZg0ECbZbfpIA)
+    - [GTAI 应用案例：DeepSeek落地弘盛铜业：国产大模型点亮"黑灯工厂"新引擎](https://mp.weixin.qq.com/s/Eczdx574MS5RMF7WfHN7_A)
     - [MaxKB 应用案例：拥抱智能时代！中国五矿以 “AI+”赋能企业发展](https://mp.weixin.qq.com/s/D5vBtlX2E81pWE3_2OgWSw)
     - [MaxKB 应用案例：DeepSeek赋能中冶武勘AI智能体](https://mp.weixin.qq.com/s/8m0vxGcWXNdZazziQrLyxg)
     - [MaxKB 应用案例：重磅！陕西广电网络“秦岭云”平台实现DeepSeek本地化部署](https://mp.weixin.qq.com/s/ZKmEU_wWShK1YDomKJHQeA)

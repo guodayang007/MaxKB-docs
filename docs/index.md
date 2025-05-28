@@ -4,7 +4,7 @@
 
 !!! Abstract ""
 
-    GTAI = Max Knowledge Brain，是一款强大易用的企业级 AI 助手，支持 RAG 检索增强、工作流编排、MCP 工具调用能力。GTAI 支持对接各种主流大语言模型，广泛应用于智能客服、企业内部知识库问答、员工助手、学术研究与教育等场景。
+    GTAI，是一款强大易用的企业级 AI 助手，支持 RAG 检索增强、工作流编排、MCP 工具调用能力。GTAI 支持对接各种主流大语言模型，广泛应用于智能客服、企业内部知识库问答、员工助手、学术研究与教育等场景。
 
 !!! Abstract ""
 
@@ -29,7 +29,7 @@
     - **模型中立**     
       支持对接各种大模型，包括本地私有大模型（Llama 3 / Qwen 2 等）、国内公共大模型（DeepSeek / SILICONFLOW / 通义千问 / 腾讯混元 / 字节豆包 / 百度千帆 / 智谱 AI / Kimi 等）和国外公共大模型（OpenAI / Azure OpenAI / Anthropic / Gemini 等）。
 
-## 3 案例展示
+<!-- ## 3 案例展示
 
 !!! Abstract ""
 
@@ -79,4 +79,4 @@
     - [如何向团队介绍 MaxKB](https://fit2cloud.com/maxkb/download/introduce-maxkb_202504.pdf)
     - [飞致云培训认证中心](https://edu.fit2cloud.com/index) 
     - [MaxKB 小课堂](https://space.bilibili.com/510493147/lists/3590204?type=season)
-    - [MaxKB 知识库](https://kb.fit2cloud.com/categories/maxkb)
+    - [MaxKB 知识库](https://kb.fit2cloud.com/categories/maxkb) -->

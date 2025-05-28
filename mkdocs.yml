@@ -65,6 +65,7 @@ nav:
         - 导出与导入: user_manual/app/serialization.md
         - 命中测试: user_manual/app/hit-testing.md
         - 对话日志: user_manual/app/log.md
+    - 应用中心: zx.md    
     - 模型管理:
         - 模型概况: user_manual/model/model_ summary.md
         - 模型对接:
